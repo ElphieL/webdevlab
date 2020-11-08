@@ -18,3 +18,5 @@ navToggle.addEventListener('click', () => {
     navToggle.classList.toggle('nav-open');
     document.querySelector('.socialmedia').classList.toggle('active');
 });
+
+console.log('With special thanks to Tammy Tse');
